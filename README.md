@@ -9,16 +9,14 @@ It's biggest feature will be a content type generator accessible via the admin i
 
 ### Straight out of the box, Subtext comes with:
 
-	- Taxonomies like categories, tags, and topics
-	- Default Entries for blog posts or news articles
-	- Full meta data support at the post and SEO levels
-	- Static pages with a hierarchical flow
-	- Hierarchical category structure
-	- Pretty URLs by default
-	- Admin-based asset management for images, videos, and audio files
-	- Admin-based interface for creating new content types that integrate with existing taxonomies or create new ones
-	- A themed design capable of quick interchangeability
+- Taxonomies like categories, tags, and topics
+- Default Entries for blog posts or news articles
+- Full meta data support at the post and SEO levels
+- Static pages with a hierarchical flow
+- Hierarchical category structure
+- Pretty URLs by default
+- Admin-based asset management for images, videos, and audio files
+- Admin-based interface for creating new content types that integrate with existing taxonomies or create new ones
+- A themed design capable of quick interchangeability
 
 This will be a long process. I would welcome like-minded developers to join me on this project, particularly those experienced with AJAX and JavaScript.
-
-~ Bryson, July 20, 2015
