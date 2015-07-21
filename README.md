@@ -1,4 +1,4 @@
-# Subtext CMS
+# SubTEXT CMS
 Subtext is not a blogging platform nor a static website builder; it is a modular content creation system.
 
 The project is still in the planning phase.
