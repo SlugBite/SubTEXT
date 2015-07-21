@@ -25,3 +25,6 @@ The biggest feature of Subtext is a content type generator accessible via the ad
 - Role based permission system with ability to edit/create/remove built-in
 
 Like-minded developers are welcome to join this project, particularly those experienced with AJAX and JavaScript.
+
+#### Contact the Developer
+email: subtext@slugbite.com
